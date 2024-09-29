@@ -1,0 +1,1 @@
+C:\Users\Orange\source\repos\Task2ServiceAndSubService\task2serviceandsubservice.client\obj\Debug\task2serviceandsubservice.client.esproj.CoreCompileInputs.cache
