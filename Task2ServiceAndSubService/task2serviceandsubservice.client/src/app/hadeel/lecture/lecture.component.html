@@ -1,0 +1,23 @@
+<p>lecture works!</p>
+
+
+
+<!--((((string interbolation)))) one way From back To Front FOR The Sesting -->
+<!--Ty : Variable {{}} in the html i will see the output -->
+{{name}}
+{{number}}
+
+<!--((((Proparty Binding)))) From HTML examople ====>>> src(img) set the proparty in [] and get the variable from  -->
+<img [src]="urlImg" width="100px" height="100px" />
+<img src="{{urlImg}}" width="100px" height="100px" />
+
+
+
+<!--((((Event Binding )))) Format To Write The Function in Angular-->
+<button (click)="onchangeHadeel()">Change</button>
+
+
+
+<!--Tow Way Binding the Change Will Run in Tow way-->
+<!-- Should Set This in app.module.ts ((FormsModule)) To identifies Tow way Binding-->
+<input type="number" value="{{number}}" [(ngModel)]="number" />

@@ -30,5 +30,7 @@ namespace Task2ServiceAndSubService.Server.Controllers
             var SubService = _db.SubServices.Where(x => x.SubServiceId == id).ToList();
             return Ok(SubService);
         }
+
+        
     }
 }

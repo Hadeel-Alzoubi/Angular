@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "0FjX+/KLJwFcERZiimMLgB8QTKR5bi8hMsKsEcr/ldk=",
+  "Hash": "eEUujz4XEP5+t6Cdk8y0WiyDJ61K/qjetnUEBB5nsw8=",
   "Source": "Task2ServiceAndSubService.Server",
   "BasePath": "_content/Task2ServiceAndSubService.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\source\\repos\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj",
+      "Identity": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj",
       "Version": 2,
       "Source": "task2serviceandsubservice.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qbuuFxTmG10=",
+  "dgSpecHash": "C/VV+NZ5TMQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orange\\source\\repos\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj",
+  "projectFilePath": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orange\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Orange\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

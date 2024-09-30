@@ -15,6 +15,7 @@ export class SubServicesComponent {
     this.parameter = this._route.snapshot.paramMap.get("id");
     this.getsubServices(this.parameter);
   }
+  
   subServiceData: any
   constructor(private _ser: UrlService, private _route: ActivatedRoute) { }
   getsubServices(id: any) {
