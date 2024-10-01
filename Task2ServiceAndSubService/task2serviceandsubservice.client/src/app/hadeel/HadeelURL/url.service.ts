@@ -31,4 +31,14 @@ export class UrlService {
   addUSerSubScription(data : any): Observable<any> {
     return this.http.post<any>(`${this.staticData}/UserSubscribtion`,data)
   }
+
+
+
+  AddUserRegester(data: any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/Users`, data)
+  }
+
+  UserLogin(data: any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/Users/Login`, data)
+  }
 }

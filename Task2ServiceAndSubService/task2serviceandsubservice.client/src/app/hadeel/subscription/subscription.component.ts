@@ -16,7 +16,8 @@ export class SubscriptionComponent {
   }
 
   
-  subArray:any
+  subArray: any
+
   getApiSwaggerFunctionFromURL_Service_Subscribtion() {
     //data is a variable like x in api
     this._ser.subscribtion().subscribe((data) => {

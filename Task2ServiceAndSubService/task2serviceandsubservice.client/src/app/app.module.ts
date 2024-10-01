@@ -13,6 +13,8 @@ import { SubServicesComponent } from './hadeel/sub-services/sub-services.compone
 import { LectureComponent } from './hadeel/lecture/lecture.component';
 import { SubscriptionComponent } from './hadeel/subscription/subscription.component';
 import { SubservicedetailsComponent } from './hadeel/subservicedetails/subservicedetails.component';
+import { RigestrationUserComponent } from './hadeel/rigestration-user/rigestration-user.component';
+import { LogInComponent } from './hadeel/log-in/log-in.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { SubservicedetailsComponent } from './hadeel/subservicedetails/subservic
     SubServicesComponent,
     LectureComponent,
     SubscriptionComponent,
-    SubservicedetailsComponent
+    SubservicedetailsComponent,
+    RigestrationUserComponent,
+    LogInComponent
   ],
   imports: [
     FormsModule,
@@ -35,7 +39,9 @@ import { SubservicedetailsComponent } from './hadeel/subservicedetails/subservic
         { path: "SubServices/:id", component: SubServicesComponent },
         { path: "lecture", component: LectureComponent },
         { path: "subscribtion", component: SubscriptionComponent },
-        { path: "details/:id", component: SubservicedetailsComponent }
+        { path: "details/:id", component: SubservicedetailsComponent },
+        { path: "registration", component: RigestrationUserComponent },
+        { path: "login", component: LogInComponent }
         
       ]
     )

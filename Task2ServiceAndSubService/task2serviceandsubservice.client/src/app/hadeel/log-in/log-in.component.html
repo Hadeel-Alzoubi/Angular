@@ -1,0 +1,20 @@
+<p>Login Form!</p>
+
+
+<br />
+
+
+<div style="width: 500px; margin: 0 auto;">
+  <form #userRegester="ngForm" (ngSubmit)="checkIfUserLogin(userRegester.value)">
+    <div class="form-group">
+      <label for="exampleInputEmail1">Email address</label>
+      <input type="email" class="form-control" name="Email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" ngModel>
+    </div>
+    <div class="form-group">
+      <label for="exampleInputPassword1">Password</label>
+      <input type="password" class="form-control" name="PasswordHash" id="exampleInputPassword1" placeholder="Password" ngModel>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
