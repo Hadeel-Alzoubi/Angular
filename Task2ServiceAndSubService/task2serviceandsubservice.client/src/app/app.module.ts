@@ -1,8 +1,7 @@
 import { HttpClientModule } from '@angular/common/http';
-import { NgModule } from '@angular/core';
+import { Component, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule, NgForm } from '@angular/forms';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavBarComponent } from './hadeel/nav-bar/nav-bar.component';
@@ -15,6 +14,8 @@ import { SubscriptionComponent } from './hadeel/subscription/subscription.compon
 import { SubservicedetailsComponent } from './hadeel/subservicedetails/subservicedetails.component';
 import { RigestrationUserComponent } from './hadeel/rigestration-user/rigestration-user.component';
 import { LogInComponent } from './hadeel/log-in/log-in.component';
+import { DashboardComponent } from './hadeel/Admin/dashboard/dashboard.component';
+import { AddServiceComponent } from './hadeel/Admin/add-service/add-service.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,9 @@ import { LogInComponent } from './hadeel/log-in/log-in.component';
     SubscriptionComponent,
     SubservicedetailsComponent,
     RigestrationUserComponent,
-    LogInComponent
+    LogInComponent,
+    DashboardComponent,
+    AddServiceComponent,
   ],
   imports: [
     FormsModule,
@@ -41,7 +44,11 @@ import { LogInComponent } from './hadeel/log-in/log-in.component';
         { path: "subscribtion", component: SubscriptionComponent },
         { path: "details/:id", component: SubservicedetailsComponent },
         { path: "registration", component: RigestrationUserComponent },
-        { path: "login", component: LogInComponent }
+        { path: "login", component: LogInComponent },
+        {
+          path: "Admin", component: DashboardComponent, children: [
+            { path: "addService", component: AddServiceComponent }
+        ] }
         
       ]
     )

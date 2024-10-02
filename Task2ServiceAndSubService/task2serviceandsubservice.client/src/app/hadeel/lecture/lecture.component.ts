@@ -16,4 +16,33 @@ export class LectureComponent {
     this.name = "Rawaa";
   }
 
+
+  userobj = {
+    name: "hadeel",
+    age: 27,
+    color : "red"
+  }
+
+  arr = [
+    {
+      name: "hadeel",
+      age: 27,
+      color: "red"
+    },
+    {
+      name: "rahaf",
+      age: 24,
+      color: "green"
+    },
+    {
+      name: "rawaa",
+      age: 26,
+      color: "yellow"
+    },
+    {
+      name: "ayah",
+      age: 28,
+      color: "black"
+    }
+  ]
 }

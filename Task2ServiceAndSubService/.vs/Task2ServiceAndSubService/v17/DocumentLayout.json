@@ -3,140 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\dto\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\dto\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\controllers\\usersubscribtioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\controllers\\usersubscribtioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\hadeelurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\hadeelurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\admin\\add-service\\add-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\admin\\add-service\\add-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\admin\\add-service\\add-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\admin\\add-service\\add-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\controllers\\subservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\controllers\\subservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\models\\usersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\models\\usersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\controllers\\subscritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\controllers\\subscritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BE6EDE65-1386-40A8-990A-8101D98AA78C}|Task2ServiceAndSubService.Server\\Task2ServiceAndSubService.Server.csproj|solutionrelative:task2serviceandsubservice.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|c:\\users\\orange\\desktop\\angular\\angular\\task2serviceandsubservice\\task2serviceandsubservice.client\\src\\app\\hadeel\\admin\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2F60B03C-3973-4CCF-A925-2A9AF28F6AB0}|task2serviceandsubservice.client\\task2serviceandsubservice.client.esproj|solutionrelative:task2serviceandsubservice.client\\src\\app\\hadeel\\admin\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,104 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "services.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.ts",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-30T12:26:54.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "url.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\HadeelURL\\url.service.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\HadeelURL\\url.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\HadeelURL\\url.service.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\HadeelURL\\url.service.ts",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCkAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T13:05:30.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserSubscriptionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\DTO\\UserSubscriptionDTO.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\DTO\\UserSubscriptionDTO.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\DTO\\UserSubscriptionDTO.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\DTO\\UserSubscriptionDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T09:33:32.514Z",
+              "DocumentIndex": 0,
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\dashboard\\dashboard.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\dashboard\\dashboard.component.html",
+              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\dashboard\\dashboard.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-02T12:52:03.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserSubscribtionController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\UserSubscribtionController.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\Controllers\\UserSubscribtionController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\UserSubscribtionController.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\Controllers\\UserSubscribtionController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAtwC0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T09:28:44.157Z",
+              "Title": "add-service.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\add-service\\add-service.component.ts",
+              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\add-service\\add-service.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\add-service\\add-service.component.ts",
+              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\add-service\\add-service.component.ts",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T12:49:31.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add-service.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\add-service\\add-service.component.html",
+              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\add-service\\add-service.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\add-service\\add-service.component.html",
+              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\add-service\\add-service.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-02T12:49:14.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddUSerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\DTO\\AddUSerDTO.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\DTO\\AddUSerDTO.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\DTO\\AddUSerDTO.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\DTO\\AddUSerDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:03:03.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "rigestration-user.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.ts",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAEAAAA",
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwDAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-01T09:27:31.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "rigestration-user.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\rigestration-user\\rigestration-user.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-01T09:21:51.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "log-in.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.ts",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-01T16:23:32.494Z",
+              "WhenOpened": "2024-10-02T12:43:45.873Z",
               "EditorCaption": ""
             },
             {
@@ -262,312 +100,23 @@
               "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.html",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.html",
               "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\log-in\\log-in.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-01T16:24:55.395Z",
+              "WhenOpened": "2024-10-02T12:42:32.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\app.module.ts",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAyAAAA",
+              "DocumentIndex": 5,
+              "Title": "dashboard.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\dashboard\\dashboard.component.ts",
+              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\dashboard\\dashboard.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\dashboard\\dashboard.component.ts",
+              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\Admin\\dashboard\\dashboard.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-30T08:08:39.498Z",
+              "WhenOpened": "2024-10-02T12:41:30.619Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "subscription.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.ts",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA+wCUAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-30T09:01:40.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwDkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:01:30.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "home.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\home\\home.component.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\home\\home.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\home\\home.component.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\home\\home.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-30T08:09:22.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "subservicedetails.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-30T12:06:50.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "nav-bar.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.html",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T12:43:20.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Models\\User.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\Models\\User.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAywBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:03:08.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "lecture.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.html",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-30T08:12:19.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "lecture.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\lecture\\lecture.component.ts",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-30T08:11:50.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "subscription.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\subscription\\subscription.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-30T09:08:00.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "subservicedetails.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\subservicedetails\\subservicedetails.component.ts",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-30T12:16:41.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "services.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\services\\services.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-30T12:15:33.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "sub-services.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-30T06:21:50.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "sub-services.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-30T07:23:10.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "sub-services.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.spec.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.spec.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\sub-services\\sub-services.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-30T12:15:39.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SubServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\SubServicesController.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\Controllers\\SubServicesController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\SubServicesController.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\Controllers\\SubServicesController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA6wB0AAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:08:21.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "SubscritionController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\SubscritionController.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\Controllers\\SubscritionController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\SubscritionController.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\Controllers\\SubscritionController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:50:18.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UserSubscription.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Models\\UserSubscription.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\Models\\UserSubscription.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Models\\UserSubscription.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\Models\\UserSubscription.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAIA/wBUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T09:33:39.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Subscription.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Models\\Subscription.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\Models\\Subscription.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Models\\Subscription.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\Models\\Subscription.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T09:45:45.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "nav-bar.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T12:45:23.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\app.component.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\app.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T12:45:01.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "nav-bar.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.spec.ts",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.spec.ts",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\app\\hadeel\\nav-bar\\nav-bar.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T12:45:22.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\index.html",
-              "RelativeDocumentMoniker": "task2serviceandsubservice.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\task2serviceandsubservice.client\\src\\index.html",
-              "RelativeToolTip": "task2serviceandsubservice.client\\src\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T12:43:47.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\Controllers\\ServicesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:37:35.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "Task2ServiceAndSubService.Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Angular\\Task2ServiceAndSubService\\Task2ServiceAndSubService.Server\\appsettings.json",
-              "RelativeToolTip": "Task2ServiceAndSubService.Server\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-29T12:35:48.798Z"
             }
           ]
         }

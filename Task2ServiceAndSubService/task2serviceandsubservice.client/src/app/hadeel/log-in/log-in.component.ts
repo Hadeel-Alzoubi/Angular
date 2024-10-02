@@ -8,10 +8,7 @@ import { Router } from '@angular/router';
   styleUrl: './log-in.component.css'
 })
 export class LogInComponent {
-
   constructor(private _ser: UrlService, private _router: Router) { }
-
-
 
   checkIfUserLogin(data: any) {
     var formdata = new FormData();
@@ -19,8 +16,13 @@ export class LogInComponent {
       formdata.append(item, data[item])
     }
 
-    this._ser.UserLogin(formdata).subscribe(() => {
-      this._router.navigate(['/']);
+    this._ser.UserLogin(formdata).subscribe((response: any) => {
+      if (response.email == "admin@gmail.com") {
+        this._router.navigate(['/dashboard']);
+
+      } else {
+        this._router.navigate(['/']);
+      }
     }, (error) => {
       alert(error.error)
     })

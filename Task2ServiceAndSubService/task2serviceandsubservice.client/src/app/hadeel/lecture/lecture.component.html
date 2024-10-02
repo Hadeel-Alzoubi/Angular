@@ -8,8 +8,8 @@
 {{number}}
 
 <!--((((Proparty Binding)))) From HTML examople ====>>> src(img) set the proparty in [] and get the variable from  -->
-<img [src]="urlImg" width="100px" height="100px" />
-<img src="{{urlImg}}" width="100px" height="100px" />
+<img [src]="urlImg" width="100" height="100" />
+<img src="{{urlImg}}" width="100" height="100" />
 
 
 
@@ -28,4 +28,22 @@
 
 <p *ngIf="numtest > 10"> The Number Is More Than 10 </p>
 
-<>
+<!--ngStyle-->
+
+<hr />
+<h1 [ngStyle]="{'background-color': userobj.color}">{{userobj.name}}</h1>
+
+<h1 [ngStyle]="{'backgroundColor': userobj.color}">{{userobj.name}}</h1>
+
+<h1 [ngStyle]='{"color":userobj.color}'>orange coding Academy</h1>
+
+<h1 [ngStyle]='{"color": "green"}'>orange coding Academy</h1>
+
+
+<!--ngFor ngStyle(ngClass) -->
+
+<div *ngFor="let item of arr" [ngClass]="{'greenColor': item.age > 24,'redColor':item.age <= 24}">
+  <p>{{item.name}}</p>
+  <p>{{item.age}}</p>
+  <p>{{item.color}}</p>
+</div>

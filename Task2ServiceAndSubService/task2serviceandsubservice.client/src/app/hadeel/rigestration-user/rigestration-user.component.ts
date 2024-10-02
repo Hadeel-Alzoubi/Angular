@@ -20,7 +20,6 @@ export class RigestrationUserComponent {
     for (let item in data) {
       formdata.append(item, data[item])
     }
-    debugger;
     this._ser.AddUserRegester(formdata).subscribe(() => {
       alert("User Add Successfuly!")
       this._router.navigate(['login']);
